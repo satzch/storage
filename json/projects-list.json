@@ -1,14 +1,14 @@
 [
     {
         "name": "Snake Game",
-        "img_url": "images/snake_game.png",
+        "img_url": "images/snake_game.jpg",
         "tags": ["HTML", "CSS", "JavaScript"],
         "project_url": "https://satzch.github.io/snake_game",
         "video_url": ""
     },
     {
         "name": "Simple Rasterizer",
-        "img_url": "images/simple_rasterizer.png",
+        "img_url": "images/simple_rasterizer.jpg",
         "tags": ["HTML Canvas", "JavaScript"],
         "project_url": "https://satzch.github.io/simple-renderer-html/",
         "video_url": ""
