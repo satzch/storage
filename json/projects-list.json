@@ -1,6 +1,6 @@
 [
     {
-        "name": "Snake Game",
+        "name": "Test Game",
         "img_url": "images/snake_game.png",
         "tags": ["HTML", "CSS", "JavaScript"],
         "project_url": "https://satzch.github.io/snake_game",
