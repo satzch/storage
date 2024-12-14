@@ -12,12 +12,5 @@
         "tags": ["HTML Canvas", "JavaScript"],
         "project_url": "https://satzch.github.io/simple-renderer-html/",
         "video_url": ""
-    },
-    {
-        "name": "Online Tic-Tac-Toe",
-        "img_url": "https://raw.githubusercontent.com/satzch/storage/refs/heads/main/images/projects/proj3.jpg",
-        "tags": ["HTML", "JavaScript", "CSS", "WebRTC"],
-        "project_url": "https://tic-tac-toe-satzch.netlify.app/",
-        "video_url": ""
     }
 ]
