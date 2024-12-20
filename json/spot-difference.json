@@ -3,8 +3,8 @@
         "level": 1,
         "gameTitle": "Spot the Differences - Easter Egg",
         "images": {
-            "image1": "test/img/easter-og.jpg",
-            "image2": "test/img/easter-diff.jpg"
+            "image1": "assets/img/easter-og.jpg",
+            "image2": "assets/img/easter-diff.jpg"
         },
         "differences": [
             { "x": 94, "y": 0, "width": 186,  "height": 168 },
@@ -22,8 +22,8 @@
         "level": 2,
         "gameTitle": "Spot the Differences - Aliens",
         "images": {
-            "image1": "test/img/aliens-og.jpg",
-            "image2": "test/img/aliens-diff.jpg"
+            "image1": "assets/img/aliens-og.jpg",
+            "image2": "assets/img/aliens-diff.jpg"
         },
         "differences": [
             { "x": 300, "y": 40, "width": 180,  "height": 168 },
